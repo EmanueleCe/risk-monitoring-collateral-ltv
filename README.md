@@ -1,6 +1,6 @@
 # Lombard Lending Risk & Stress Testing Model
 
-![LTV Dynamics – Severe Stress Scenario](images/LTV_Dynamics_Under_Severe_Scenario.png)
+![LTV Dynamics – Severe Stress Scenario](LTV_Dynamics_Under_Severe_Scenario.png)
 
 This project analyses the risk dynamics of a Lombard loan backed by a diversified collateral portfolio, focusing on how the loan-to-value (LTV) evolves over time and reacts to adverse market conditions.
 
@@ -48,3 +48,4 @@ These enhancements represent a possible next step, but are intentionally exclude
 ## Disclaimer
 
 This project is for educational and illustrative purposes only and does not constitute investment advice or a production trading system.
+
